@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pianosync/static/css/main.073c9b0a.css",
+    "main.js": "/pianosync/static/js/main.093c20af.js",
+    "static/js/787.91b6204e.chunk.js": "/pianosync/static/js/787.91b6204e.chunk.js",
+    "static/media/logo.svg": "/pianosync/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pianosync/index.html",
+    "main.073c9b0a.css.map": "/pianosync/static/css/main.073c9b0a.css.map",
+    "main.093c20af.js.map": "/pianosync/static/js/main.093c20af.js.map",
+    "787.91b6204e.chunk.js.map": "/pianosync/static/js/787.91b6204e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.093c20af.js"
+  ]
+}
